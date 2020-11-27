@@ -11,7 +11,7 @@ The portal supports workflow for verified profiles, robust reporting for spam-pr
 <br/>
 [Sai Krishna Jupally](https://www.linkedin.com/in/sai-krishna-jupally-b7050177/)
 <br/>
-[P. Kartikeya](https://www.linkedin.com/in/p-kartikeya-29a0a319b/)
+[P. Kartikeya](https://www.linkedin.com/in/kartikeya-pochampalli-29a0a319b/)
 
 **[Login Page](http://discover.iitbbs.live)** 
 <br/>
